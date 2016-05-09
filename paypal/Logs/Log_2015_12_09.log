@@ -1,0 +1,502 @@
+[2015-12-09 09:14:27] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:14:30] ReviewOrder::get tokenss: ack FAILURE 
+
+[2015-12-09 09:14:30] ReviewOrder::get token:  false 
+
+[2015-12-09 09:16:02] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:16:10] ReviewOrder::get tokenss: ack FAILURE 
+
+[2015-12-09 09:16:10] ReviewOrder::get token:  false 
+
+[2015-12-09 09:18:04] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:18:09] ReviewOrder::get tokenss: ack FAILURE 
+
+[2015-12-09 09:18:09] ReviewOrder::get token:  false 
+
+[2015-12-09 09:19:40] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:19:49] ReviewOrder::get tokenss: ack FAILURE 
+
+[2015-12-09 09:19:49] ReviewOrder::get token:  false 
+
+[2015-12-09 09:26:37] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:26:38] ReviewOrder::get tokenss: ack FAILURE 
+
+[2015-12-09 09:26:38] ReviewOrder::get token:  false 
+
+[2015-12-09 09:27:16] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:27:19] ReviewOrder::get tokenss: ack FAILURE 
+
+[2015-12-09 09:27:19] ReviewOrder::get token:  false 
+
+[2015-12-09 09:31:55] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:31:57] ReviewOrder::get token:  false 
+
+[2015-12-09 09:43:16] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:43:21] ReviewOrder::get token:  false 
+
+[2015-12-09 09:44:10] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:44:10] ReviewOrder::get token: 332  &PAYMENTREQUEST_0_INVNUM=3121&NOSHIPPING=1&PAYMENTREQUEST_0_CURRENCYCODE=USD&L_PAYMENTREQUEST_0_NAME0=sss&L_PAYMENTREQUEST_0_AMT0=21&L_PAYMENTREQUEST_0_QTY0=1&PAYMENTREQUEST_0_DESC=&PAYMENTREQUEST_0_AMT=21&PAYMENTREQUEST_0_ITEMAMT=21&PAYMENTREQUEST_0_PAYMENTACTION=sale&ReturnUrl=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FReviewOrder.php%3FcurrencyCodeType%3DUSD%26paymentType%3Dsale&CANCELURL=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FSetExpressCheckout.php%3FpaymentType%3Dsale 
+
+[2015-12-09 09:44:15] ReviewOrder::get token:  false 
+
+[2015-12-09 09:51:15] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:51:15] ReviewOrder::get token: 332  &PAYMENTREQUEST_0_INVNUM=786543321&NOSHIPPING=1&PAYMENTREQUEST_0_CURRENCYCODE=USD&L_PAYMENTREQUEST_0_NAME0=sss&L_PAYMENTREQUEST_0_AMT0=21&L_PAYMENTREQUEST_0_QTY0=1&PAYMENTREQUEST_0_DESC=&PAYMENTREQUEST_0_AMT=21&PAYMENTREQUEST_0_ITEMAMT=21&PAYMENTREQUEST_0_PAYMENTACTION=sale&ReturnUrl=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FReviewOrder.php%3FcurrencyCodeType%3DUSD%26paymentType%3Dsale&CANCELURL=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FSetExpressCheckout.php%3FpaymentType%3Dsale 
+
+[2015-12-09 09:51:24] ReviewOrder::get token:  false 
+
+[2015-12-09 09:56:31] ReviewOrder:: paypalorder 
+
+[2015-12-09 09:56:31] ReviewOrder::get token: 332  &PAYMENTREQUEST_0_INVNUM=7865433211&NOSHIPPING=1&PAYMENTREQUEST_0_CURRENCYCODE=USD&L_PAYMENTREQUEST_0_NAME0=sss&L_PAYMENTREQUEST_0_AMT0=21&L_PAYMENTREQUEST_0_QTY0=1&PAYMENTREQUEST_0_DESC=&PAYMENTREQUEST_0_AMT=21&PAYMENTREQUEST_0_ITEMAMT=21&PAYMENTREQUEST_0_PAYMENTACTION=sale&ReturnUrl=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FReviewOrder.php%3FcurrencyCodeType%3DUSD%26paymentType%3Dsale&CANCELURL=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FSetExpressCheckout.php%3FpaymentType%3Dsale 
+
+[2015-12-09 09:56:33] ReviewOrder::get token:  false 
+
+[2015-12-09 10:09:32] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:09:32] ReviewOrder::get token: 332  &PAYMENTREQUEST_0_INVNUM=3123421312&NOSHIPPING=1&PAYMENTREQUEST_0_CURRENCYCODE=USD&L_PAYMENTREQUEST_0_NAME0=山炮&L_PAYMENTREQUEST_0_AMT0=21&L_PAYMENTREQUEST_0_QTY0=1&PAYMENTREQUEST_0_DESC=&PAYMENTREQUEST_0_AMT=21&PAYMENTREQUEST_0_ITEMAMT=21&PAYMENTREQUEST_0_PAYMENTACTION=sale&ReturnUrl=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FReviewOrder.php%3FcurrencyCodeType%3DUSD%26paymentType%3Dsale&CANCELURL=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FSetExpressCheckout.php%3FpaymentType%3Dsale 
+
+[2015-12-09 10:09:36] ReviewOrder::get token:  false 
+
+[2015-12-09 10:12:24] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:12:24] ReviewOrder::get token: 332  &PAYMENTREQUEST_0_INVNUM=3123421312&NOSHIPPING=1&PAYMENTREQUEST_0_CURRENCYCODE=USD&L_PAYMENTREQUEST_0_NAME0=山炮&L_PAYMENTREQUEST_0_AMT0=21&L_PAYMENTREQUEST_0_QTY0=1&PAYMENTREQUEST_0_DESC=&PAYMENTREQUEST_0_AMT=21&PAYMENTREQUEST_0_ITEMAMT=21&PAYMENTREQUEST_0_PAYMENTACTION=sale&ReturnUrl=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FReviewOrder.php%3FcurrencyCodeType%3DUSD%26paymentType%3Dsale&CANCELURL=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FSetExpressCheckout.php%3FpaymentType%3Dsale 
+
+[2015-12-09 10:12:48] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:12:48] ReviewOrder::get token: 332  &PAYMENTREQUEST_0_INVNUM=3123421312&NOSHIPPING=1&PAYMENTREQUEST_0_CURRENCYCODE=USD&L_PAYMENTREQUEST_0_NAME0=山炮&L_PAYMENTREQUEST_0_AMT0=21&L_PAYMENTREQUEST_0_QTY0=1&PAYMENTREQUEST_0_DESC=&PAYMENTREQUEST_0_AMT=21&PAYMENTREQUEST_0_ITEMAMT=21&PAYMENTREQUEST_0_PAYMENTACTION=sale&ReturnUrl=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FReviewOrder.php%3FcurrencyCodeType%3DUSD%26paymentType%3Dsale&CANCELURL=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FSetExpressCheckout.php%3FpaymentType%3Dsale 
+
+[2015-12-09 10:15:04] paypalapi   32513   123241 
+
+[2015-12-09 10:16:27] paypalapi   32513   123241 
+
+[2015-12-09 10:16:27] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:16:27] ReviewOrder::get token: 332  &PAYMENTREQUEST_0_INVNUM=&NOSHIPPING=1&PAYMENTREQUEST_0_CURRENCYCODE=USD&L_PAYMENTREQUEST_0_NAME0=&L_PAYMENTREQUEST_0_AMT0=&L_PAYMENTREQUEST_0_QTY0=1&PAYMENTREQUEST_0_DESC=&PAYMENTREQUEST_0_AMT=&PAYMENTREQUEST_0_ITEMAMT=&PAYMENTREQUEST_0_PAYMENTACTION=sale&ReturnUrl=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FReviewOrder.php%3Fout_trade_no%3D32513%26subject%3D123241%26total_fee%3D1%26show_url%3Dwww.baidu.com%26body%3D%26return_url%3Dhttp%3A%2F%2Fwww.turingcat.com%2FReviewOrder.php%3FcurrencyCodeType%3DUSD%26paymentType%3Dsale&CANCELURL=http%3A%2F%2Flocalhost%3A80%2Fwww%2FwebAPI%2Fpaypal%2FReviewOrder.php%3Fout_trade_no%3D32513%26subject%3D123241%26total_fee%3D1%26show_url%3Dwww.baidu.com%26body%3D%26return_url%3Dhttp%3A%2F%2Fwww.turingcat.com%2FSetExpressCheckout.php%3FpaymentType%3Dsale 
+
+[2015-12-09 10:18:36] paypalapi   32513   123241 
+
+[2015-12-09 10:18:36] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:20:20] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:20:22] paypalapi   32513   123241 
+
+[2015-12-09 10:20:22] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:21:14] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:23:25] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:23:50] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:24:16] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:24:24] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:24:24] ReviewOrder::get token: EC-29942131XT522934C success 
+
+[2015-12-09 10:24:45] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:24:45] ReviewOrder::pay return token:EC-29942131XT522934C     query string: currencyCodeType=USD&paymentType=sale&token=EC-29942131XT522934C&PayerID=4GEP8WM6R5TSE 
+
+[2015-12-09 10:24:47] ReviewOrder::GetExpressCheckoutDetails   success   
+
+[2015-12-09 10:24:47] paypal_response_return::recordDetailRequest   
+
+[2015-12-09 10:24:47] PaypalReturnRecord:getQueryDetailSql() sqlSELECT * FROM alipay_return WHERE bank_seq_no = 'EC-29942131XT522934C' 
+
+[2015-12-09 10:24:47] PayResponce::insertDetailRecord():executeSql() 
+
+[2015-12-09 10:24:47] PaypalReturnRecord:getInsertDetailSql()2015-12-09T09:25:45Z 
+
+[2015-12-09 10:24:47] PaypalReturnRecord:getInsertSql() out_trade_noewtq 
+
+[2015-12-09 10:24:47] PaypalReturnRecord:getInsertDetailSql() sqlINSERT INTO alipay_return (out_trade_no,payment_type,is_success,subject,total_fee,seller_id,buyer_email,body,bank_seq_no,notify_time,insert_time)VALUES('ewtq','4','0','0.000000','12','','lix059-buyer@163.com','','EC-29942131XT522934C','2015-12-09T09:25:45Z','2015-12-09 10:24:47'); 
+
+[2015-12-09 10:24:47] DoExpressCheckoutPayment:: nvpstr &TOKEN=EC-29942131XT522934C&PAYERID=4GEP8WM6R5TSE&PAYMENTACTION=sale&AMT=12&CURRENCYCODE=USD&IPADDRESS=localhost 
+
+[2015-12-09 10:24:52] DoExpressCheckoutPayment::ack  success  
+
+[2015-12-09 10:24:52] paypal_response_return::recordRequest   
+
+[2015-12-09 10:24:52] paypal_response_return::recordRequest  invnm 
+
+[2015-12-09 10:24:52] PaypalReturnRecord:getQueryDetailSql() sqlSELECT * FROM alipay_return WHERE bank_seq_no = 'EC-29942131XT522934C' 
+
+[2015-12-09 10:24:52] paypal_response_return  result num：  
+
+[2015-12-09 10:24:52] paypal_response_return::recordRequest  updateRecord 
+
+[2015-12-09 10:24:52] PayResponce::updateDetailRecord():executeSql() 
+
+[2015-12-09 10:24:52] PaypalReturnRecord:getDetailUpdateSql() 
+
+[2015-12-09 10:24:52] PaypalReturnRecord:getInsertSql() out_trade_no 
+
+[2015-12-09 10:24:52] PaypalReturnRecord:getDetailUpdateSql() sqlUPDATE alipay_return  SET payment_type='4',is_success='1',exterface='',trade_no='1B622720MK857913B',trade_status='Completed',buyer_id='4GEP8WM6R5TSE',total_fee='12.000000',trade_type='expresscheckout',order_time='2015-12-09T09:25:50Z',pending_reason='None',reason_code='0',notify_time='2015-12-09T09:25:50Z',insert_time='2015-12-09 10:24:52' WHERE bank_seq_no='EC-29942131XT522934C'; 
+
+[2015-12-09 10:24:52] PaypalReturnRecord:trade_status2   Completed 
+
+[2015-12-09 10:24:52] paypal_response_return::recordRequest return url http://www.turingcat.com/ 
+
+[2015-12-09 10:30:23] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:30:27] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:30:27] ReviewOrder::get token: EC-72L82729TX166132U success 
+
+[2015-12-09 10:30:46] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:30:46] ReviewOrder::pay return token:EC-72L82729TX166132U     query string: currencyCodeType=USD&paymentType=sale&token=EC-72L82729TX166132U&PayerID=4GEP8WM6R5TSE 
+
+[2015-12-09 10:30:50] ReviewOrder::GetExpressCheckoutDetails   success   
+
+[2015-12-09 10:30:50] paypal_response_return::recordDetailRequest   
+
+[2015-12-09 10:30:50] PaypalReturnRecord:getQueryDetailSql() sqlSELECT * FROM alipay_return WHERE bank_seq_no = 'EC-72L82729TX166132U' 
+
+[2015-12-09 10:30:50] PayResponce::insertDetailRecord():executeSql() 
+
+[2015-12-09 10:30:50] PaypalReturnRecord:getInsertDetailSql()2015-12-09T09:31:48Z 
+
+[2015-12-09 10:30:50] PaypalReturnRecord:getInsertSql() out_trade_noewtq1213 
+
+[2015-12-09 10:30:50] PaypalReturnRecord:getInsertDetailSql() sqlINSERT INTO alipay_return (out_trade_no,payment_type,is_success,subject,total_fee,seller_id,buyer_email,body,bank_seq_no,notify_time,insert_time)VALUES('ewtq1213','4','0','etqwe21312','12.000000','','lix059-buyer@163.com','','EC-72L82729TX166132U','2015-12-09T09:31:48Z','2015-12-09 10:30:50'); 
+
+[2015-12-09 10:30:50] DoExpressCheckoutPayment:: nvpstr &TOKEN=EC-72L82729TX166132U&PAYERID=4GEP8WM6R5TSE&PAYMENTACTION=sale&AMT=12&CURRENCYCODE=USD&IPADDRESS=localhost 
+
+[2015-12-09 10:30:56] DoExpressCheckoutPayment::ack  success  
+
+[2015-12-09 10:30:57] paypal_response_return::recordRequest   
+
+[2015-12-09 10:30:57] paypal_response_return::recordRequest  invnm 
+
+[2015-12-09 10:30:57] PaypalReturnRecord:getQueryDetailSql() sqlSELECT * FROM alipay_return WHERE bank_seq_no = 'EC-72L82729TX166132U' 
+
+[2015-12-09 10:30:57] paypal_response_return  result num：  
+
+[2015-12-09 10:30:57] paypal_response_return::recordRequest  updateRecord 
+
+[2015-12-09 10:30:57] PayResponce::updateDetailRecord():executeSql() 
+
+[2015-12-09 10:30:57] PaypalReturnRecord:getDetailUpdateSql() 
+
+[2015-12-09 10:30:57] PaypalReturnRecord:getInsertSql() out_trade_no 
+
+[2015-12-09 10:30:57] PaypalReturnRecord:getDetailUpdateSql() sqlUPDATE alipay_return  SET payment_type='4',is_success='1',exterface='',trade_no='1UX43904RJ277330L',trade_status='Completed',buyer_id='4GEP8WM6R5TSE',total_fee='12.000000',trade_type='expresscheckout',order_time='2015-12-09T09:31:54Z',pending_reason='None',reason_code='0',notify_time='2015-12-09T09:31:55Z',insert_time='2015-12-09 10:30:56' WHERE bank_seq_no='EC-72L82729TX166132U'; 
+
+[2015-12-09 10:30:57] PaypalReturnRecord:trade_status2   Completed 
+
+[2015-12-09 10:30:57] paypal_response_return::recordRequest return url http://www.turingcat.com/ 
+
+[2015-12-09 10:42:40] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:42:43] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:42:43] ReviewOrder::get token: EC-9PA887433V876413N success 
+
+[2015-12-09 10:43:44] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:43:47] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:43:47] ReviewOrder::get token: EC-5HW22991WX5080132 success 
+
+[2015-12-09 10:46:09] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:46:12] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:46:12] ReviewOrder::get token: EC-0HP26671CF0163249 success 
+
+[2015-12-09 10:46:34] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:46:36] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:46:36] ReviewOrder::get token: EC-87S8266439728925L success 
+
+[2015-12-09 10:47:50] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:47:51] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:47:51] ReviewOrder::get token: EC-6M086860BG8162137 success 
+
+[2015-12-09 10:48:18] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:48:20] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:48:20] ReviewOrder::get token: EC-2H58657668270564C success 
+
+[2015-12-09 10:48:55] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:48:57] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:48:57] ReviewOrder::get token: EC-2JA901545M1801221 success 
+
+[2015-12-09 10:49:19] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:49:22] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:49:22] ReviewOrder::get token: EC-2846518935215394B success 
+
+[2015-12-09 10:50:07] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:50:09] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:50:09] ReviewOrder::get token: EC-4ER07061HF302581W success 
+
+[2015-12-09 10:50:33] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:50:35] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:50:35] ReviewOrder::get token: EC-92X890911E7286806 success 
+
+[2015-12-09 10:51:22] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:51:24] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:51:24] ReviewOrder::get token: EC-28918193BN950620N success 
+
+[2015-12-09 10:52:21] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:52:23] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:52:23] ReviewOrder::get token: EC-33F22469HE6017056 success 
+
+[2015-12-09 10:52:58] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:53:00] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:53:00] ReviewOrder::get token: EC-7LH26898A2172483V success 
+
+[2015-12-09 10:55:42] ReviewOrder:: paypalorder 
+
+[2015-12-09 10:55:43] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 10:55:43] ReviewOrder::get token: EC-1LC07741BE777023L success 
+
+[2015-12-09 11:15:19] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:15:22] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:15:22] ReviewOrder::get token: EC-59606315TM6246201 success 
+
+[2015-12-09 11:15:38] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:15:38] ReviewOrder::pay return token:EC-59606315TM6246201     query string: currencyCodeType=USD&paymentType=sale&token=EC-59606315TM6246201&PayerID=4GEP8WM6R5TSE 
+
+[2015-12-09 11:15:43] ReviewOrder::GetExpressCheckoutDetails   success   
+
+[2015-12-09 11:15:45] paypal_response_return::recordDetailRequest   
+
+[2015-12-09 11:15:45] PaypalReturnRecord:getQueryDetailSql() sqlSELECT * FROM alipay_return WHERE bank_seq_no = 'EC-59606315TM6246201' 
+
+[2015-12-09 11:15:45] PayResponce::insertDetailRecord():executeSql() 
+
+[2015-12-09 11:15:45] PaypalReturnRecord:getInsertDetailSql()2015-12-09T10:16:41Z 
+
+[2015-12-09 11:15:45] PaypalReturnRecord:getInsertSql() out_trade_no3212 
+
+[2015-12-09 11:15:45] PaypalReturnRecord:getInsertDetailSql() sqlINSERT INTO alipay_return (out_trade_no,payment_type,is_success,subject,total_fee,seller_id,buyer_email,body,bank_seq_no,notify_time,insert_time)VALUES('3212','4','0','爱的方式','2.000000','','lix059-buyer@163.com','','EC-59606315TM6246201','2015-12-09T10:16:41Z','2015-12-09 11:15:45'); 
+
+[2015-12-09 11:15:47] DoExpressCheckoutPayment:: nvpstr &TOKEN=EC-59606315TM6246201&PAYERID=4GEP8WM6R5TSE&PAYMENTACTION=sale&AMT=2&CURRENCYCODE=USD&IPADDRESS=localhost 
+
+[2015-12-09 11:15:52] DoExpressCheckoutPayment::ack  success  
+
+[2015-12-09 11:15:52] paypal_response_return::recordRequest   
+
+[2015-12-09 11:15:52] paypal_response_return::recordRequest  invnm 
+
+[2015-12-09 11:15:52] PaypalReturnRecord:getQueryDetailSql() sqlSELECT * FROM alipay_return WHERE bank_seq_no = 'EC-59606315TM6246201' 
+
+[2015-12-09 11:15:52] paypal_response_return  result num：  
+
+[2015-12-09 11:15:52] paypal_response_return::recordRequest  updateRecord 
+
+[2015-12-09 11:15:52] PayResponce::updateDetailRecord():executeSql() 
+
+[2015-12-09 11:15:52] PaypalReturnRecord:getDetailUpdateSql() 
+
+[2015-12-09 11:15:52] PaypalReturnRecord:getInsertSql() out_trade_no 
+
+[2015-12-09 11:15:52] PaypalReturnRecord:getDetailUpdateSql() sqlUPDATE alipay_return  SET payment_type='4',is_success='1',exterface='',trade_no='41139123YG3508038',trade_status='Completed',buyer_id='4GEP8WM6R5TSE',total_fee='2.000000',trade_type='expresscheckout',order_time='2015-12-09T10:16:50Z',pending_reason='None',reason_code='0',notify_time='2015-12-09T10:16:50Z',insert_time='2015-12-09 11:15:52' WHERE bank_seq_no='EC-59606315TM6246201'; 
+
+[2015-12-09 11:15:52] PaypalReturnRecord:trade_status2   Completed 
+
+[2015-12-09 11:15:52] paypal_response_return::recordRequest return url http://www.turingcat.com/ 
+
+[2015-12-09 11:29:58] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:30:00] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:30:00] ReviewOrder::get token: EC-0NH73552G3463582G success 
+
+[2015-12-09 11:32:37] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:32:40] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:32:40] ReviewOrder::get token: EC-26F00902YX456252D success 
+
+[2015-12-09 11:35:45] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:35:47] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:35:47] ReviewOrder::get token: EC-8X069052GM6989350 success 
+
+[2015-12-09 11:37:30] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:37:32] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:37:32] ReviewOrder::get token: EC-5R942008610082451 success 
+
+[2015-12-09 11:38:27] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:38:29] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:38:29] ReviewOrder::get token: EC-1AK19308V6865513N success 
+
+[2015-12-09 11:40:38] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:40:40] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:40:40] ReviewOrder::get token: EC-63Y881034J629713W success 
+
+[2015-12-09 11:44:41] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:44:43] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:44:43] ReviewOrder::get token: EC-887406258V190531M success 
+
+[2015-12-09 11:47:57] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:47:58] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:47:58] ReviewOrder::get token: EC-2KM35262G53103354 success 
+
+[2015-12-09 11:48:31] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:48:31] ReviewOrder::pay return token:EC-2KM35262G53103354     query string: currencyCodeType=USD&paymentType=sale&token=EC-2KM35262G53103354&PayerID=4GEP8WM6R5TSE 
+
+[2015-12-09 11:48:33] ReviewOrder::GetExpressCheckoutDetails   success   
+
+[2015-12-09 11:48:35] DoExpressCheckoutPayment:: nvpstr &TOKEN=EC-2KM35262G53103354&PAYERID=&PAYMENTACTION=&AMT=&CURRENCYCODE=&IPADDRESS=localhost 
+
+[2015-12-09 11:48:36] DoExpressCheckoutPayment::ack  err 33  
+
+[2015-12-09 11:52:42] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:52:44] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:52:44] ReviewOrder::get token: EC-59U253436A099472K success 
+
+[2015-12-09 11:52:57] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:52:57] ReviewOrder::pay return token:EC-59U253436A099472K     query string: currencyCodeType=USD&paymentType=sale&token=EC-59U253436A099472K&PayerID=4GEP8WM6R5TSE 
+
+[2015-12-09 11:52:58] ReviewOrder::GetExpressCheckoutDetails   success   
+
+[2015-12-09 11:54:53] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:54:55] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:54:55] ReviewOrder::get token: EC-95U020172R964434A success 
+
+[2015-12-09 11:55:07] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:55:07] ReviewOrder::pay return token:EC-95U020172R964434A     query string: currencyCodeType=USD&paymentType=sale&token=EC-95U020172R964434A&PayerID=4GEP8WM6R5TSE 
+
+[2015-12-09 11:55:08] ReviewOrder::GetExpressCheckoutDetails   success   
+
+[2015-12-09 11:55:08] DoExpressCheckoutPayment:: nvpstr &TOKEN=EC-95U020172R964434A&PAYERID=4GEP8WM6R5TSE&PAYMENTACTION=sale&AMT=21&CURRENCYCODE=USD&IPADDRESS=localhost 
+
+[2015-12-09 11:56:36] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:56:37] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:56:37] ReviewOrder::get token: EC-9XF29114UT145370F success 
+
+[2015-12-09 11:56:52] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:56:52] ReviewOrder::pay return token:EC-9XF29114UT145370F     query string: currencyCodeType=USD&paymentType=sale&token=EC-9XF29114UT145370F&PayerID=4GEP8WM6R5TSE 
+
+[2015-12-09 11:56:53] ReviewOrder::GetExpressCheckoutDetails   success   
+
+[2015-12-09 11:56:53] DoExpressCheckoutPayment:: nvpstr &TOKEN=EC-9XF29114UT145370F&PAYERID=4GEP8WM6R5TSE&PAYMENTACTION=sale&AMT=21&CURRENCYCODE=USD&IPADDRESS=localhost 
+
+[2015-12-09 11:57:44] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:57:45] ReviewOrder::get tokenss: ack FAILURE 
+
+[2015-12-09 11:57:45] ReviewOrder::get token:  false 
+
+[2015-12-09 11:57:51] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:57:53] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 11:57:53] ReviewOrder::get token: EC-6UB92995LT304725M success 
+
+[2015-12-09 11:58:06] ReviewOrder:: paypalorder 
+
+[2015-12-09 11:58:06] ReviewOrder::pay return token:EC-6UB92995LT304725M     query string: currencyCodeType=USD&paymentType=sale&token=EC-6UB92995LT304725M&PayerID=4GEP8WM6R5TSE 
+
+[2015-12-09 11:58:11] ReviewOrder::GetExpressCheckoutDetails   success   
+
+[2015-12-09 11:58:11] paypal_response_return::recordDetailRequest   
+
+[2015-12-09 11:58:11] PaypalReturnRecord:getQueryDetailSql() sqlSELECT * FROM alipay_return WHERE bank_seq_no = 'EC-6UB92995LT304725M' 
+
+[2015-12-09 11:58:11] PayResponce::insertDetailRecord():executeSql() 
+
+[2015-12-09 11:58:11] PaypalReturnRecord:getInsertDetailSql()2015-12-09T10:59:09Z 
+
+[2015-12-09 11:58:11] PaypalReturnRecord:getInsertSql() out_trade_no32341112 
+
+[2015-12-09 11:58:11] PaypalReturnRecord:getInsertDetailSql() sqlINSERT INTO alipay_return (out_trade_no,payment_type,is_success,subject,total_fee,seller_id,buyer_email,body,bank_seq_no,notify_time,insert_time)VALUES('32341112','4','0','快快快2','21.000000','','lix059-buyer@163.com','','EC-6UB92995LT304725M','2015-12-09T10:59:09Z','2015-12-09 11:58:11'); 
+
+[2015-12-09 11:58:11] DoExpressCheckoutPayment:: nvpstr &TOKEN=EC-6UB92995LT304725M&PAYERID=4GEP8WM6R5TSE&PAYMENTACTION=sale&AMT=21&CURRENCYCODE=USD&IPADDRESS=localhost 
+
+[2015-12-09 11:58:14] DoExpressCheckoutPayment::ack  success  
+
+[2015-12-09 11:58:14] paypal_response_return::recordRequest   
+
+[2015-12-09 11:58:14] paypal_response_return::recordRequest  invnm 
+
+[2015-12-09 11:58:14] PaypalReturnRecord:getQueryDetailSql() sqlSELECT * FROM alipay_return WHERE bank_seq_no = 'EC-6UB92995LT304725M' 
+
+[2015-12-09 11:58:14] paypal_response_return  result num：  
+
+[2015-12-09 11:58:14] paypal_response_return::recordRequest  updateRecord 
+
+[2015-12-09 11:58:14] PayResponce::updateDetailRecord():executeSql() 
+
+[2015-12-09 11:58:14] PaypalReturnRecord:getDetailUpdateSql() 
+
+[2015-12-09 11:58:14] PaypalReturnRecord:getInsertSql() out_trade_no 
+
+[2015-12-09 11:58:14] PaypalReturnRecord:getDetailUpdateSql() sqlUPDATE alipay_return  SET payment_type='4',is_success='1',exterface='',trade_no='40C385022S3026234',trade_status='Completed',buyer_id='4GEP8WM6R5TSE',total_fee='21.000000',trade_type='expresscheckout',order_time='2015-12-09T10:59:12Z',pending_reason='None',reason_code='0',notify_time='2015-12-09T10:59:13Z',insert_time='2015-12-09 11:58:14' WHERE bank_seq_no='EC-6UB92995LT304725M'; 
+
+[2015-12-09 11:58:14] PaypalReturnRecord:trade_status2   Completed 
+
+[2015-12-09 11:58:14] paypal_response_return::recordRequest return url http://www.turingcat.com/ 
+
+[2015-12-09 19:25:24] ReviewOrder:: paypalorder 
+
+[2015-12-09 19:25:26] ReviewOrder::get tokenss: ack FAILURE 
+
+[2015-12-09 19:25:26] ReviewOrder::get token:  false 
+
+[2015-12-09 19:27:51] ReviewOrder:: paypalorder 
+
+[2015-12-09 19:28:41] ReviewOrder:: paypalorder 
+
+[2015-12-09 19:28:44] ReviewOrder::get tokenss: ack SUCCESS 
+
+[2015-12-09 19:28:44] ReviewOrder::get token: EC-9WT27579GK6761601 success 
+
