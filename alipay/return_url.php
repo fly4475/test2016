@@ -16,7 +16,9 @@
 require_once("alipay.config.php");
 require_once("lib/alipay_notify.class.php");
 require_once("service/lib/WriteLog.lib.php");
-
+/**
+*devloper分支
+**/
 
 //Log::write('get data is:'.json_encode($_GET),'log');
 
